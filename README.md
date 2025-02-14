@@ -30,7 +30,7 @@ A Java-based **Library Management System** demonstrating the **SOLID** principle
 ## 🚀 Getting Started  
 
 ### Prerequisites  
-- Java 11+  
+- Java 8+  
 - IDE (IntelliJ, Eclipse, VS Code)  
 
 ### Installation  
